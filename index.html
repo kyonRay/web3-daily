@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Web3 日报档案馆</title>
+<link rel="alternate" type="application/rss+xml" title="Web3 日报" href="https://kyonray.github.io/web3-daily/feed.xml">
 <style>
   body {
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -33,6 +34,17 @@
     padding: 2px 10px;
     border-radius: 12px;
     margin-left: 8px;
+  }
+  .rss-link {
+    display: inline-block;
+    margin-left: 12px;
+    font-size: 13px;
+    color: #f60;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .rss-link:hover {
+    text-decoration: underline;
   }
   .report-list {
     list-style: none;
@@ -69,13 +81,6 @@
     color: #888;
     font-size: 13px;
   }
-  .report-tag {
-    font-size: 12px;
-    padding: 2px 8px;
-    border-radius: 8px;
-    background: #f0eee6;
-    color: #555;
-  }
   footer {
     margin-top: 48px;
     padding-top: 20px;
@@ -88,7 +93,6 @@
     body { background: #1a1a1a; color: #e0e0e0; }
     .report-list li { background: #252525; border-color: #333; }
     .report-list a { color: #e0e0e0; }
-    .report-tag { background: #333; color: #aaa; }
     .subtitle { color: #999; }
     footer { border-top-color: #333; }
   }
@@ -96,7 +100,9 @@
 </head>
 <body>
 <h1>📰 Web3 日报</h1>
-<p class="subtitle">每日精选全球 Web3 与宏观财经资讯 · 共 5 期</p>
+<p class="subtitle">每日精选全球 Web3 与宏观财经资讯 · 共 5 期
+  <a class="rss-link" href="https://kyonray.github.io/web3-daily/feed.xml" title="订阅 RSS">📡 RSS</a>
+</p>
 
 <ul class="report-list">
   <li>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web3 日报</title>
+    <link>https://kyonray.github.io/web3-daily/</link>
+    <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
+    <language>zh-cn</language>
+    <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-05-28 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-28.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-28.html</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      <description>今日市场剧烈波动，BTC 跌破 $75,000 创逾月新低，4 小时全网爆仓 $1.6 亿。美伊局势持续紧张——伊朗阿巴斯港发生爆炸、美军对伊军事基地实施新打击，但伊朗透露美伊初步协议草案显示美方将全面停火 60 天，原油暴跌 3%。稳定币和金融基础设施方面迎来里程碑：万事达卡获纽约 BitLicense、Cash App 向近 6000 万用户推出 USDC 支付、SoFi 发行首个美国国民银行稳定币、DTCC 宣布 2027 年将代币化资产接入 Stellar。AI 领域，Cognition AI 融资超 $10 亿估值 $260 亿，Anthropic 年收入首次超越 OpenAI...</description>
+    </item>
+    <item>
+      <title>Web3 日报｜2026-05-27 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-27.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-27.html</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      <description>英国首次对加密交易所实施银行式制裁，HTX（原 Huobi）等 18 个实体因涉俄被列入制裁名单，标志全球监管趋严。SharpLink（ETH 第二大财库）与 Forward Industries（SOL 财库）双双纳入 Russell 指数，加密财库股获传统指数基金被动流入入口。美光科技受 UBS 目标价大幅上调刺激，市值突破万亿美元，带动全球半导体板块走强。CryptoPAC 投入 1050 万美元在德州初选中击败 20 年反加密议员，加密货币政治影响力显著扩张。加密市场整体承压，BTC 跌破 $76,000，但 AI 板块代币逆势大涨（WLD +32%）。</description>
+    </item>
+    <item>
+      <title>Web3 日报｜2026-05-26 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-26.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-26.html</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      <description>今日市场聚焦美伊和平协议取得突破性进展——停火协议延长60天、霍尔木兹海峡30天内恢复通航，国际油价单日暴跌逾6%。BTC在$75K-$78K区间震荡反弹，恐惧贪婪指数从极端恐惧（25）回升至恐惧（30）。技术面来看，以太坊Kohaku计划推出钱包隐私SDK、Aptos通过三项代币经济学升级、Hyperliquid上线链下事件预测市场。安全方面，Squid第三方Safe模块被利用损失$320万。机构方面，Ondo Finance创始人Nathan Allman意外去世震动了RWA赛道，Coinbase CEO提出八项金融升级愿景。AI Agent链上支付总额已超$7300万，成为不可忽视...</description>
+    </item>
+    <item>
+      <title>Web3 日报｜2026-05-25 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-25.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-25.html</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      <description>美伊协议达成在即，特朗普宣布协议基本谈判完成，伊朗同意放弃高浓缩铀、开放霍尔木兹海峡，比特币受此推动突破 $77,000。Hyperliquid 的 HYPE 续创历史新高突破 $64，协议回购机制被证实为主要推手。Vitalik Buterin 回应外界批评，表示以太坊基金会将缩小规模、减少 ETH 出售并聚焦核心使命。StablR 稳定币遭多签攻击脱锚，损失约 $1,350 万。CFTC 内部惊现「政治清洗」——多名质疑特朗普关联加密公司的官员被停职，引发行业震动。</description>
+    </item>
+    <item>
+      <title>Web3 日报｜2026-05-24 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-24.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-24.html</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0800</pubDate>
+      <description>本日最重磅事件为特朗普宣布美伊协议「基本达成」，油价暴跌、比特币走出 V 型反转；加密货币市场继续承压，BTC 一度跌破 $74,500，BTC 现货 ETF 周流出 $12.6 亿创 1 月以来最大。监管层面，SEC 批准纳斯达克上市比特币指数期权，Kevin Warsh 宣誓就任美联储主席，CLARITY 法案参议院议程延期。机构动态方面，Grayscale 第三次提交 Hyperliquid ETF 修订版（代码 GHYP），Bank of America 披露持有 $5300 万加密 ETF 头寸，Michael Saylor 暗示 2026 年可能出售部分 BTC。链上数据显示...</description>
+    </item>
+  </channel>
+</rss>
