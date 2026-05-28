@@ -14,9 +14,24 @@
 
 ## 结构
 
-- `index.html` — 当日最新日报
-- `archive/YYYY-MM-DD-Web3-Daily.html` — 历史存档
+- `index.html` — 当日最新日报（始终指向最新一期）
+- `archive/YYYY-MM-DD-Web3-Daily.html` — 历史存档（可访问任意历史日期）
+- `deploy.sh` — 自动部署脚本（由 Hermes Agent cron 调用）
+
+## 历史存档
+
+| 日期 | 链接 |
+|------|------|
+| 2026-05-28 | [查看](archive/2026-05-28-Web3-Daily.html) |
+| 2026-05-27 | [查看](archive/2026-05-27-Web3-Daily.html) |
+| 2026-05-26 | [查看](archive/2026-05-26-Web3-Daily.html) |
+| 2026-05-25 | [查看](archive/2026-05-25-Web3-Daily.html) |
+| 2026-05-24 | [查看](archive/2026-05-24-Web3-Daily.html) |
 
 ## 数据来源
 
 BlockBeats、CoinDesk、The Block、CoinTelegraph、GitHub Releases、Folo RSS
+
+---
+
+*由 [Hermes Agent](https://hermes-agent.nousresearch.com) 自动生成并部署*
