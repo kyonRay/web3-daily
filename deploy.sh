@@ -1,6 +1,6 @@
 #!/bin/bash
 # Web3 Daily — 部署脚本
-# 将当日 HTML 复制到 repo 根目录并推送到 GitHub Pages
+# 将当日 HTML 部署为 YYYY-MM-DD.html，然后重新生成 index.html 目录页
 set -euo pipefail
 
 REPO_DIR="/Users/kyonguo/web3-daily"
@@ -9,7 +9,7 @@ TODAY=$(date '+%Y-%m-%d')
 
 cd "$REPO_DIR"
 
-# 检查当日 HTML 是否存在
+# ── 1. 找到当日 HTML ──
 HTML_FILE="${OBSIDIAN_DIR}/${TODAY}-Web3-Daily.html"
 if [ ! -f "$HTML_FILE" ]; then
   echo "ERROR: HTML not found: $HTML_FILE"
@@ -24,31 +24,23 @@ if [ ! -f "$HTML_FILE" ]; then
   fi
 fi
 
-SIZE=$(stat -f%z "$HTML_FILE" 2>/dev/null || stat -c%s "$HTML_FILE" 2>/dev/null)
+SIZE=$(stat -f%z "$HTML_FILE" 2>/dev/null)
 if [ "$SIZE" -eq 0 ]; then
   echo "ERROR: HTML file is empty"
   exit 1
 fi
-echo "HTML size: $(echo "scale=1; $SIZE/1024" | bc) KB"
+echo "HTML: ${TODAY}.html ($(echo "scale=1; $SIZE/1024" | bc) KB)"
 
-# 1. 复制到 index.html（最新版）
-cp "$HTML_FILE" "${REPO_DIR}/index.html"
-echo "→ index.html updated"
+# ── 2. 部署为独立页面 ──
+cp "$HTML_FILE" "${REPO_DIR}/${TODAY}.html"
+echo "→ ${TODAY}.html saved"
 
-# 2. 复制到 archive/（历史存档）
-mkdir -p "${REPO_DIR}/archive"
-ARCHIVE_FILE="archive/${TODAY}-Web3-Daily.html"
-cp "$HTML_FILE" "${REPO_DIR}/${ARCHIVE_FILE}"
-echo "→ ${ARCHIVE_FILE} saved"
+# ── 3. 生成目录页 ──
+/usr/bin/env python3 "${REPO_DIR}/generate_index.py"
 
-# 3. 检查是否需要更新 README 中的最新日期
-if grep -q "最新更新" README.md; then
-  sed -i '' "s/最新更新：.*/最新更新：${TODAY}/" README.md
-fi
+# ── 4. Commit & Push ──
+git add "${TODAY}.html" index.html
 
-# 4. Commit & Push
-git add index.html archive/ "${ARCHIVE_FILE}"
-# 如果 HTML 没变（同一天重复运行），也会正常 commit；用 --allow-empty 避免空提交错误
 if git diff --cached --quiet; then
   echo "No changes to commit (same content as last time)"
 else
