@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-05-29 星期五</title>
+      <link>https://kyonray.github.io/web3-daily/2026-05-29.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-05-29.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      <description>美伊停火谈判现重大突破 ：双方谈判代表就 60 天谅解备忘录达成一致，等待特朗普最终批准，伊朗最高领袖尚未点头，黄金短线拉升 30 美元，原油跌破 90 美元 BTC 续跌至 $73,000 附近 ：ETH 跌破 $2,000 整数关口，24 小时全网爆仓 9.25 亿美元（主爆多单 8.51 亿），市场情绪持续低迷 Sui 主网再次停摆 ：5 个月内第二次网络停滞，影响 Walrus 存储协议写入操作 VanEck 推出美国首支现货 BNB ETF （代码：VBNB），由 Anchorage Digital 托管 Anthropic 完成 $965B 估值 H 轮融资 ，预告将推出更高...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-05-28 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-05-28.html</link>
