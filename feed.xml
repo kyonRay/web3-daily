@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-06-06 星期六</title>
+      <link>https://kyonray.github.io/web3-daily/2026-06-06.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-06-06.html</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
+      <description>今日加密市场遭遇「黑色星期五」——BTC 跌破 $60,000 创去年 10 月以来新低，ETH 跌至 $1,540 创 13 个月新低，全网爆仓 $18 亿。触发因素包括：美国 5 月非农新增就业 17.2 万（远超预期 8.5 万），市场定价联储明年 1 月加息；Zcash Orchard 池发现严重通胀漏洞（被 Anthropic Opus 4.8 发现），ZEC 单日腰斩。美股同步大跌，纳指重挫 4.18%，韩国 KOSPI 跌 5.5% 触发熔断。Bitwise CIO 认为 Mega IPO（SpaceX/Anthropic）抽血流动性是主因。好消息是：BTC/ETH ETF...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-06-05 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-06-05.html</link>
