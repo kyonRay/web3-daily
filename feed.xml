@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-06-15 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-06-15.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-06-15.html</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      <description>今日最大焦点是美伊和平协议正式达成——特朗普宣布与伊朗签署 14 点谅解备忘录，霍尔木兹海峡将重新开放，全球油价预期下行，亚洲股市大涨（日经+4%、韩国 KOSPI+5%），BTC 突破 65,000 美元。技术面，以太坊推出只需 7 美分的量子防护账户方案，Aerodrome 将引入预测市场机制优化流动性分配；比特币挖矿难度经历今年第二大下调（-10%）。安全方面，Humanity 被黑案确认为朝鲜黑客组织所为，Aztec Router 合约遭攻击损失约 219 万美元。监管上，MiCA 宽限期 7 月 1 日到期，欧盟约 75% 加密平台面临关停风险。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-06-14 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-06-14.html</link>
