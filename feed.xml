@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-06-18 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-06-18.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-06-18.html</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      <description>今日最大焦点：美联储新主席 Warsh 首秀 FOMC 会议利率不变但点阵图偏鹰，市场预期年内加息 25bp，BTC 跌破 64,000 美元。SpaceX 市值突破 2.5 万亿美元逼近比特币两倍，带动杠杆产品资金竞赛。伊利诺伊州签署 0.2% 数字资产税法案，被业界称为全美最严厉的加密税法。CME 计划起诉 CFTC 反对批准比特币永续合约。技术面亮点：Sui 发布 v1.73.2（协议版本 126），Celestia-node v0.31.3 支持 v9 应用并将出块时间缩短至 3 秒。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-06-17 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-06-17.html</link>
