@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-06-22 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-06-22.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-06-22.html</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      <description>美伊首轮谈判在瑞士结束且分歧明显，伊朗重申拒绝放弃铀浓缩权利，霍尔木兹海峡船舶通行量归零引发油价震荡；比特币在 ETF 创纪录 30 天净流出 $63.5 亿的背景下守稳 $64,000 关口，市场关注 6 月 26 日 $130 亿期权到期。安全事件密集爆发——JaredFromSubway MEV 机器人遭反向利用损失 $750 万、Secret Network 跨链桥遭无限铸造攻击损失 $467 万，链上安全警钟再次敲响。日本企业年金基金拟配置 1% 加密资产、欧盟启动 MiCA 2.0 意见征询，机构与监管双线推进。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-06-18 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-06-18.html</link>
