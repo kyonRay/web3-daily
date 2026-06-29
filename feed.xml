@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-06-29 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-06-29.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-06-29.html</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      <description>比特币周末跌破 60,000 美元关口，有望录得罕见的连续两个季度下跌，恐惧贪婪指数降至 12（极度恐惧），为近两年最低水平。美国比特币现货 ETF 连续第 7 周净流出，本周合计流出 17.87 亿美元，IBIT 投资者平均亏损约 40%。CZ 接受 CoinDesk 专访，将市场回调归因于 AI 分流、地缘紧张与周期因素共同作用，并透露 Binance 正与特朗普政府对话。技术面亮点包括 Loopring DEX 宣布永久关停、Base 网络排序器漏洞导致连续两次中断、以及 Etherlink EVM 桥遭攻击尝试。宏观层面，美伊同意停止相互攻击并本周在卡塔尔会晤，市场关注本周非农数...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-06-28 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-06-28.html</link>
