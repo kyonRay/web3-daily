@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-05 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-05.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-05.html</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      <description>市场在极度恐惧中迎来反弹：BTC 突破 $63,000、ETH 站上 $1,800，全球股市同步创历史新高；然而 BTC 现货 ETF 连续第 8 周净流出 $5.26 亿，Coinbase 溢价指数连续 47 天为负，机构需求依然疲弱。稳定币格局持续震荡——Revolut 宣布 8 月底下架 USDT 以符合 MiCA 合规，近一季度稳定币总市值缩水约 $100 亿。链上数据揭示市场底部特征：BTC 已实现盈亏比跌至 43 个月新低，恐惧贪婪指数录得 23（极度恐惧），同时交易所 BTC 存款激增至近 4.9 万枚，暗示波动性或将加剧。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-04 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-04.html</link>
