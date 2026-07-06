@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-06 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-06.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-06.html</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      <description>Strategy（原 MicroStrategy）上周大幅加速 BTC 抛售，售出 3,588 枚 BTC 套现 2.16 亿美元用于优先股股息支付，致 BTC 短线跌破 $62,000 后反弹至 $63,000 附近。Vitalik Buterin 宣布以太坊将进行自 Merge 以来「最大规模重建」，路线图涉及协议几乎所有核心部分，并引入量子抗性。DeFi 协议 Summer Finance 遭闪电贷攻击损失约 600 万美元，再次引发对 DeFi 安全性的关注。Ripple 获欧盟 MiCA CASP 完整牌照，可在 30 个 EEA 国家提供合规加密服务。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-05 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-05.html</link>
