@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-12 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-12.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-12.html</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      <description>加密货币市场正经历一场深刻的身份撕裂：一面是 AI 代理交易、代币化股票、ETF 资金回流的机构化推进，另一面是 Hedera 最大借贷协议因预言机漏洞损失 900 万美元、以太坊节点集中化引发终局性风险——&quot;成熟资产&quot;与 &quot;依然脆弱的技术基建&quot;之间的张力在本周达到临界点。与此同时，美伊霍尔木兹海峡对峙推升航运成本，叠加下周 CPI 与美联储听证会，宏观不确定性成为加密反弹能否持续的核心变量。 支撑事实：Hedera 借贷协议 Bonzo Lend 遭预言机操纵攻击损失 905 万美元，TVL 骤降 77%；Robinhood 宣布 AI 代理即将接入加密货币交易、Circle 开源 A...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-11 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-11.html</link>
