@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-13 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-13.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-13.html</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      <description>加密世界今天在两条战线上同时被拉扯：链上，Robinhood Chain 上线仅 12 天就以 $8.77 亿日交易量冲上 DEX 第二，Uniswap 贡献了其中 99.5% 的流动性，这不仅是又一个 L2 的成功——它证明 TradFi 的 1 亿+用户漏斗接入链上基础设施时，产生的是连 Solana 都无法忽视的引力场。链下，美伊冲突升级至霍尔木兹海峡关闭、美军一周内三轮打击 300+目标、WTI 原油单日飙升 3.26%，但 BTC 纹丝不动（+0.3%）、ETH 反而涨了 1.8%——加密资产正在经历一场真实的地缘政治压力测试，而目前的答卷相当平静。ETF 在连续 8 周失血后...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-12 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-12.html</link>
