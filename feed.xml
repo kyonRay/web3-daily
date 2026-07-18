@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-18 星期六</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-18.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-18.html</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      <description>AI 板块遭遇今年以来最大震荡——中国月之暗面发布开源 2.8 万亿参数模型 Kimi K3，在多项基准测试中超越 Anthropic Opus 4.8，引发全球半导体恐慌性抛售。SOX 指数跌 5%，日经 225 暴跌 4%，SK 海力士 ADR 史上首次跌破发行价，加密市场受拖累 BTC 一度跌破 $63,000。但恐慌之下 Web3 制度化进程反而加速推进：Citadel Securities 以 4 亿美元战略投资 Crypto.com（估值 200 亿），Robinhood Chain 开发者活跃度跃居公链第二，CLARITY 法案下周或于参议院通过——加密正从被监管者变成基础...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-17 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-17.html</link>
