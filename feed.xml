@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-21 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-21.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-21.html</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      <description>AI 引发的市场恐慌与加密基础设施的静默落地形成了今天最强烈的对比：一边是 Kimi K3 需求挤爆服务器、芯片股跌入熊市、对冲基金以创纪录速度抛售科技股，另一边是 Cardano 完成首次全链上治理硬分叉、韩国央行 CBDC 携 9 家银行即将实交易测试、日本物流巨头用稳定币发工资。当市场还在争论「AI 是不是泡沫」时，下一代金融基础设施已经越过概念验证阶段，进入生产部署。ETH 的机构积累同样值得关注——BitMine 持仓逼近以太坊总供应量的 5%，ETH ETF 周净流入首超 BTC ETF，Arthur Hayes 持续买入——而 ETH/BTC 汇率仍趴在 0.029 的历史...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-20 星期一</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-20.html</link>
