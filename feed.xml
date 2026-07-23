@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-23 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-23.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-23.html</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      <description>加密行业在&quot;制度化加速&quot;与&quot;底层脆弱性暴露&quot;之间剧烈撕扯。一边是CLARITY法案新草案正式发布、白宫官员称&quot;距通过非常接近&quot;——美国加密监管框架正在经历诞生前的最后阵痛；代币化股票市值一年增长5倍至17亿美元、RWA月交易量达4700亿美元、Robinhood链上DEX三周突破900亿美元——传统金融的链上基础设施正在以不可逆的速度扩张。另一边，安全领域却发出密集警报：Balance稳定币因预言机漏洞崩盘99%、Zilliqa暴露出2019年遗留至今的Ledger私钥漏洞、Cardano钱包SecondFi遭攻击后永久关闭——机构资金加速入场的同时，底层安全防线却不断后退。宏观层面，伊...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-22 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-22.html</link>
