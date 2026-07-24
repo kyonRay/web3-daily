@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-24 星期五</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-24.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-24.html</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      <description>加密衍生品市场今天见证了一个时代的终结——永续合约的发明者 BitMEX 宣布将于 9 月 23 日正式关闭，BMEX 代币暴跌 92%。十二年前，BitMEX 将永续合约带入加密货币，创造了至今仍是最活跃的交易产品；十二年后，它在监管重压和合规竞争下退场，Arthur Hayes 发布告别推文，CZ 留言致敬。与此同时，单日四起安全事件合计损失超 3800 万美元，暴露出 DeFi 基础设施在熊市压力下的脆弱性。另一面，BlackRock、Coinbase、Strategy 等九大机构宣布成立比特币安全联盟，承诺三年出资 1500 万美元应对量子计算威胁——机构的「防御工事」正在加密寒...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-23 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-23.html</link>
