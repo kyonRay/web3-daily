@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-07-28 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-07-28.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-07-28.html</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      <description>加密行业本周进入「结构性巩固」模式：在宏观不确定性（美联储议息、伊朗冲突）压制价格的同时，头部协议正在通过大规模架构重组构筑长期护城河。Lido 启动史上最大规模验证者整合（800 万 ETH 迁移），Circle 收购 IBM 近千项区块链专利成为美国最大专利持有者，Strategy 暂停增持比特币并囤积 37.5 亿美元现金储备——这些动作的共同信号是：成熟玩家正在从「激进扩张」转入「防御性强化」，为下一轮周期做准备。与此同时，ETH 显现出罕见的相对强势——ETH/BTC 汇率创三个月新高，巨鲸持续累积，暗示市场在低迷中正默默押注以太坊。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-27 星期一</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-27.html</link>
