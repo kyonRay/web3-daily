@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-08-04 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-08-04.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-08-04.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      <description>加密行业今天在两个极端之间剧烈撕扯。一端是自托管信仰的崩塌：Coldcard 硬件钱包漏洞进入第五天，累计被盗近 1.14 亿美元，引发 2022 年 FTX 以来最大规模的链上比特币转移潮，沉睡 12 年的远古矿工地址也开始紧急迁移。另一端是机构基础设施的加速建设：贝莱德推出两只专为稳定币储备设计的代币化货币市场基金，肯尼亚将 3000 万份学术记录锚定至 Avalanche 链，Ripple 投资代币化资本市场基建——&quot;not your keys&quot;的信任危机与&quot;on-chain finance&quot;的基建高潮正在同一天发生。而在华盛顿，CLARITY 法案未进入周一参议院议程，距休会仅剩...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-07-29 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-07-29.html</link>
