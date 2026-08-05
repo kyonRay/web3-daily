@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-08-05 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-08-05.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-08-05.html</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      <description>加密市场正在经历一场静默的结构性转折：传统金融巨头批量将核心基础设施迁往链上——Wells Fargo 加入 JPMorgan 和 Citi 的行列推出代币化存款、Dinari 上线美股代币化交易、BNY Mellon 为机构上线加密质押托管——而链上美债规模站上 $162B 历史新高。与此同时，加密原生市场的投机引擎显露历史性疲态：BTC 隐含波动率降至两个月来最低、Coinbase 溢价连续 78 天为负（历史最长记录）、做市商 Wintermute 警告卖方流动性枯竭、FalconX 裁员 10% 并退出新加坡。这不是两个独立的故事——它们共同指向同一结论：加密正在从「投机赌场」转...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-08-04 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-08-04.html</link>
