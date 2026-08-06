@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-08-06 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-08-06.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-08-06.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      <description>加密行业今天被迫面对其最古老的命题——「你信任谁来保管你的密钥？」Coldcard 硬件钱包被曝出长达五年的熵生成漏洞，四波攻击已窃取约 1.2 亿美元，这是自 Mt. Gox 以来比特币自托管基础设施遭受的最大规模打击。具有讽刺意味的是，就在自托管信仰动摇的同一周，Circle 的机构级稳定币支付网络（USDC 流通量同比 +19%）、Western Union 的 Visa 稳定币卡、以及 Mastercard 的跨境稳定币身份验证框架同时进入生产阶段——华尔街正在用合规基础设施填补自托管留下的信任真空。市场用脚投票：黄金冲破 4,200 美元创六周新高，而比特币在 64,000 美...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-08-05 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-08-05.html</link>
