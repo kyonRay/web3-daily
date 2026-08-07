@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-08-07 星期五</title>
+      <link>https://kyonray.github.io/web3-daily/2026-08-07.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-08-07.html</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      <description>Coldcard 硬件钱包漏洞持续发酵，正在改写加密行业的信任结构：黑客已将被盗资产转入混币器，比特币日活地址飙升至 98 万个创近两年新高，恐慌性迁移把用户从自托管推向现货 ETF（分析师直言冷钱包事故利好 ETF）——但机构 BTC 持仓同步缩水 10%，「机构进场 vs 机构撤退」的信号相互矛盾。另一条主线是 RWA 衍生品化加速：Hyperliquid Q2 报告显示 RWA 永续合约交易占比从 1.8% 飙升至 32.2%，代币化 RWA 存款三倍增长至 74 亿美元，Tether 进军沙特房地产代币化，真实资产上链正在从概念走向交易量。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-08-06 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-08-06.html</link>
