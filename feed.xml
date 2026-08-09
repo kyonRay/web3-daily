@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-08-09 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-08-09.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-08-09.html</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      <description>比特币正在经历一个「协议层混乱、资金层冷静」的错位时刻。BIP-110 进入强制信号期但矿工支持率仅 2.53%，分叉链落后主链 18 个区块，开发者警告出售分叉币可能遭遇重放攻击、损失真实 BTC——而同期 BTC 现货 ETF 单周净流入约 10 亿美元创 4 月以来最强，IBIT 一周增持 7,320 枚 BTC，机构对协议层噪音几乎无感。监管侧，CLARITY 法案被锁定在 9/15 参议院投票，白宫顾问警告若届时无法推进则通过无望，中期选举前的立法窗口正在收窄；特朗普系加密业务同步收缩，TMTG 终止与 Crypto.com 价值 64 亿美元的 CRO 国库计划。宏观上 7 ...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-08-08 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-08-08.html</link>
