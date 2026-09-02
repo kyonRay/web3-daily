@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-02 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-02.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-02.html</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+      <description>加密市场正被两条战线同时拉扯： 宏观战线上 ，美伊三天两度交火、WTI 原油冲破 90 美元、美债收益率升至 2025 年初以来最高，美联储理事巴尔放话「如果通胀不能很快放缓，那么将是时候加息了」——BTC 失守 78,000 美元、ETH 跌破 2,400 美元，24 小时全网爆仓超 4 亿美元，「Rektember」的季节性魔咒叠加加息风险。 基建战线上 ，华尔街的稳定币军备竞赛骤然提速：美国银行、高盛、花旗等 21 家金融巨头组建财团发行 G7 稳定币（美元版拟 2027 年上线），美国商务部首次将 GDP/PCE 数据经 Chainlink 上链，ICE 入股 tZERO——宏观...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-01 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-01.html</link>
