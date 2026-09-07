@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-07 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-07.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-07.html</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
+      <description>加密行业正在经历一场 供给侧出清 ：没有可持续商业模式的中间层基建在同一天批量退场——Liquid Network 被自称「白帽」的地址提取 4000 BTC（约 $3.2 亿）后暂停网络、Coinbase 背书的 Router Protocol 宣布关停并销毁 3.03 亿 ROUTE、Harmony 提议将 ONE 迁移至以太坊并逐步关闭主网、Tether 支持的智利交易所 Orionx 因 $7M 资金缺口永久关停。与此同时，资金并未离场而是加速向头部集中：美国 BTC 现货 ETF 三周流入 $38 亿创 2026 年最强表现，BTC 在非农重燃加息预期、金价跌超 2% 的背景下...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-05 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-05.html</link>
