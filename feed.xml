@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-09 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-09.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-09.html</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <description>战争通胀与链上华尔街化的撕裂日。外部：美伊冲突升级推 WTI 原油至 93.31 美元（三个月新高），CME FedWatch 显示美联储 9 月加息概率升至 60.4%，ECB 周四将进行美伊开战以来第二次加息——BTC 跌破 7.8 万美元回踩关键支撑，美股三大指数齐跌，全网 24 小时爆仓 2.46 亿美元。内部却是另一番景象：Robinhood Chain 币股叙事逆势狂欢（上线 70 天收入 4258 万美元、PONS 单日费用破 600 万纪录、币股 BNC 正股单日暴涨 50%），Circle 以 4 亿美元收购 Tazapay、Visa 开放 VisaNet 数据给链上放...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-08 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-08.html</link>
