@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-19 星期六</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-19.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-19.html</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+      <description>CLARITY 法案在参议院夭折，美国监管反而在两日内跑得更快——这才是今天真正的主线。SEC 用「创新豁免」把代币化美股放上许可制 AMM，CFTC 把加密监管规则直接送进白宫 OMB 审查，同时对「被动软件」给出 no-action；立法缺席，行政部门用既有职权补位，加密与美股之间的制度边界正在被从两端同时拆除。市场的回应是暴力的：BTC 一夜从 $76,000 拉到 $81,000（+5.96%），SOL +10.96%，UNI +26.6%、NEAR +30.9%，24 小时全网爆仓 $5.31 亿中空单占 $4.71 亿——这不是资金驱动的上涨，是空头被抬走。同一时间，交易所开...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-18 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-18.html</link>
