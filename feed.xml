@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-20 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-20.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-20.html</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <description>今天真正的主角不是价格，是所有权账本。SEC 先给代币化美股开出五年创新豁免（许可制 AMM 可撮合原生代币化股票），又提出更新过户代理规则、明确允许区块链记账——高盛点名 COIN 最受益，而 Peter Schiff 给出反面判断：代币化证券同样便利，还多一层盈利与分红支撑，这对 BTC 是利空（见监管 #13）。市场对这套叙事分裂得相当彻底：Coinbase 与 Kalshi 抢着把个股永续合约推入美国市场，Uniswap 上代币化股票相关 TVL 30 天增 $8,280 万。而 BTC 自己站上 $80,000 靠的是空头爆仓——两年最大单日涨幅是仓位事件，不是基本面事件。真正...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-19 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-19.html</link>
