@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-21 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-21.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-21.html</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <description>这个周末真正发生的事在治理层，不在价格层。三条协议同时走到了「改规则或结束」的路口：ZetaChain 以 99.4% 通过关停自建 L1、把 ZETA 按 1:1 迁往 Solana；曾经的头部 DEX Balancer 把自己葬礼怎么办写成了提案——9 月 25 日投票决定是否解散 DAO、把至少 900 万美元国库分给销毁 BAL 的持币人，而 BAL 现在的市值约 700 万美元，比它要分的国库还小；Aave 则反向操作，把每周 100 万美元的委员会回购焊进协议层自动执行。与此同时，山寨币的涨幅和市场的宽度并不一致：FTT 单日 +34%、NEAR 周涨超 50%、AVAX 单...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-20 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-20.html</link>
