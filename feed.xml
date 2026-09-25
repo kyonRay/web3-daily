@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-25 星期五</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-25.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-25.html</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <description>代币化今天完成了从「加密公司推销的产品」到「金融基础设施自己动手」的身份转换，而且是在同一天把三条最关键的路同时打通。结算层：IBM 把 Digital Asset Haven 接入 Swift 的区块链共享账本（ISO 20022 报文适配器），英国巴克莱、NatWest、汇丰等完成全球首笔银行间代币化存款交易并用于再抵押贷款与市场支付测试——这两件事意味着「链上现金」开始跑在银行自己的报文标准与合规流程里，而不需要另建一套。发行与托管层：ARK Invest 把 $13 亿 ARKVX 风投基金（持仓 OpenAI、Anthropic、Stripe）通过 Securitize 搬上以...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-24 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-24.html</link>
