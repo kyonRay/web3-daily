@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-26 星期六</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-26.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-26.html</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+      <description>代币化股票今天不再需要故事了——它同时交出了交易量、抵押品资格、分红机制和机构配方四张成绩单。 过去 30 天，Base 链上代币化股票的现货 DEX 成交量约 $13 亿，环比增长 153.8%；Aave V4 在 Base 上线 Equities Hub，允许非美国用户用 Coinbase 发行的 7 只代币化美股（苹果、亚马逊、Alphabet、Meta 等）抵押借出 USDC；Flap 在 Base 上线股票配对代币，Backpack 则为股票与 ETF 开通现金分红直入账户；Ethena 同日把 USDe 的基差策略扩展进 Binance 的 bStocks 与股票永续合约。而...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-25 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-25.html</link>
