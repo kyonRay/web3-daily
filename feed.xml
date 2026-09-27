@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-27 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-27.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-27.html</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <description>代币化股票的竞争焦点，今天从「能上多少只股票」切换到「谁来定义股权登记」。交易层已经跑通：Aero（Aerodrome + Velodrome 合并）的代币化股票池一个月做出 $10 亿成交、Robinhood Chain 的 DeFi TVL 月增 60.47% 突破 $10.27 亿、Backpack 直接把目标定成「把 1 万只股票搬上 Solana」。但同日成立的「发行人支持代币联盟」（Bullish、Equiniti、Alpaca、Apex、DriveWealth）说明真正的瓶颈已经转移到法务层——链上股份要接得上官方股东名册，否则仍只是合成敞口，而这条通道目前依赖 SEC 的...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-26 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-26.html</link>
