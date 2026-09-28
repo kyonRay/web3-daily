@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-09-28 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-09-28.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-09-28.html</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <description>今天最重要的一件事，是以太坊决定不再称自己为「区块链」。Vitalik 发布《密码学世界计算机》，用一张对照比特币白皮书逐节展开的表，把验证方式（全量重下载重执行 → SNARK 验证 + PeerDAS 采样）、共识（PoW → 优化版 PoS）、区块构建权（单一矿工 → 多方构建）、隐私（无 → ZK-SNARK）四条底层假设同时替换，并给出 2030 时间表——明年的 Hegota 被他描述为「最后一个 2015 年的人还能认出来的常规分叉」。技术层的确定性在加速：Lean consensus 形式化验证提案落地（最终性提速 4–8 倍）、Glamsterdam 的 EIP-792...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-27 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-27.html</link>
