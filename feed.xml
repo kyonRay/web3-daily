@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-01 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-01.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-01.html</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+      <description>加密行业的信任缺口今天同时出现在两个截然不同的层级，而修复它的人正在从行业内部换成传统金融。运维层：MetaMask 披露其部分基础设施遭安全事件影响，作为预防措施主动让非托管质押业务中受影响的验证者退出，Aave 与 Lido 同步进入监控状态——这是继 9 月 25 日 Bitget 3.88 亿美元被盗（SlowMist 已把最早恶意活动追溯到 8 月 31 日的第三方安全产品零日漏洞）之后，一周内第二起「不碰私钥也能打穿你」的事故，攻击面已明确从密钥管理转移到运维链与第三方安全产品链。与此同时，华尔街正在把自己的界面搬到链上：Base 激活 Cobalt 升级为 RWA 加了合规...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-09-30 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-09-30.html</link>
