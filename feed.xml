@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-05 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-05.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-05.html</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天最重要的两条链上消息指向同一个词： 集中 。MetaMask Staking 的基础设施在 9 月 30 日遭入侵，触发约 52.3 万枚 ETH 的预防性退出，把以太坊解押队列推高 392% 至峰值约 85 万枚——一个验证者基础设施供应商的决策，牵动了全网近 2% 的质押量；同日 Base 链上一个金库因白名单被注入恶意合约损失约 600 万美元，仍有 3,170 万美元资产暴露在外。DeFi 的卖点是「消除信任」，但真正在被定价的风险恰恰是「信任过于集中」。华盛顿的战线同时转移：Clarity Act 在参议院搁浅后，博弈从立法转向诉讼与游说——社区银行协会起诉 OCC 挑战加...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-02 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-02.html</link>
