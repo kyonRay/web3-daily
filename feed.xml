@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-10 星期六</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-10.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-10.html</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+      <description>加密行业今天同时出现两条信任防线的裂缝。 物理信任 ：Ledger 硬件钱包被曝遭遇供应链投毒，东南亚分销商 CryptoBilis 渠道售出的设备导致近 9,000 万美元被盗，受害钱包横跨以太坊、波场与比特币；前 Mt.Gox CEO 甚至拆出一台内置 LTE 间谍模块的样机——「自托管」的安全假设里，最后一个不受用户控制的环节其实是物流。 数学信任 ：Glassnode 称已有 626 万枚 BTC（占总供应 31.2%）的公钥暴露在链上，StarkWare 在比特币主网验证了无需软分叉的抗量子方案 QSB，Zcash 把后量子签名的时间表定在 2027 年 1 月——量子议题正在...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-09 星期五</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-09.html</link>
