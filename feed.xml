@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-11 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-11.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-11.html</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
+      <description>加密史上最大规模清算迎来一周年，而市场正在用最激进的方式否认那次的教训。 一年前的 10 月 10–11 日，比特币从 12.2 万美元砸向 10.5 万美元下方，24 小时内约 191.56 亿美元杠杆仓位被强平、逾 160 万人爆仓，每一项都创下加密合约交易十年纪录；今天 BTC 报价 8.3 万美元、约为崩盘前三分之二，而一家名为 Papertrade 的永续合约交易所在同一个纪念日上线—— 最高 1,000 倍杠杆、无资金费率、无滑点，并且用代币奖励亏损者 ：1 小时名义成交额 800 亿美元，用户为挖 PAPER 累计亏损 473 万美元，11,465 个地址预存 1.38 亿...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-10 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-10.html</link>
