@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-14 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-14.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-14.html</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天的三条线分别是「信任的边界被重新画定」「资本的定价锚被 AI 交易拖走」「结算层悄悄搬上链」。 安全边界的位移 ：硬件钱包的信任危机已从产品问题升级为渠道问题——欧洲最大消费电子零售商 MediaMarktSaturn 全面下架 Ledger 全线产品，Ledger 主动要求东南亚六国与香港的分销商停售，Trezor 宣布削减经销商、OneKey 终止 CryptoBilis 授权。行业花了十年教育用户「私钥即主权」，如今最脆弱的一环被证明是快递箱与一把刀（同日英国一名交易员遭遇持刀入室抢劫，损失近 80 万美元）。与此同时，Coinbase 量子顾问委员会发布比特币后量子迁移建议、...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-13 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-13.html</link>
