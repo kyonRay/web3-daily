@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-18 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-18.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-18.html</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天市场的主线不是币价，而是 「谁有权发行一个代币」 。DTCC 公布代币化服务细则——首批 25 种证券、底层约 30 万亿美元、1:1 对应同一 CUSIP；同一天高盛、富国、摩根士丹利把代币化定位为「增长业务而非威胁」，Citrini 也喊出 RWA 繁荣。但九家美股发行方（CoreWeave、博通、Verizon 等）联名反对 OKX 与 ICE 平台的股票代币交易： 基础设施已经就位，授权书还卡在董事会手里 。另一边，加密仍在为 AI 信用周期付费——纳指一周跌 5.5%、费城半导体指数八连跌、CoreWeave 单日 -11.9%，Gartner 估算 3.5 万亿美元 AI...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-17 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-17.html</link>
