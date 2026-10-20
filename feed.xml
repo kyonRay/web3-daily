@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-20 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-20.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-20.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天市场的主线不是价格，而是「谁来保管」。自托管的技术信任一天内被三点击穿：Galaxy 研报确认 Ledger 东南亚授权经销商在设备内植入独立窃听电路板，474 个地址被盗约 9,100 万美元，且完全绕过 Secure Element 与官方真伪检测；Qubic 因钱包种子随机性不足被转走 2.94 万亿枚 QU、全链暂停；Cysic 跨链桥被未授权铸造 1,000 万枚 CYS。与之镜像的是机构入口在加速铺设：JPM Coin 登陆以太坊主网、德国储蓄银行以 0.99 欧元/单开放加密交易、Mastercard 推出稳定币风险评分、AnchorWatch 拿到内华达信托牌照。与此...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-18 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-18.html</link>
