@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-21 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-21.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-21.html</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天所有资产都在回答同一个问题：钱的价格该由谁定。AI 一侧，信用市场先动手了——年内 AI 相关企业发债约 4,660 亿美元，是去年同期的 4.6 倍，软银 5 年期 CDS 升到 432 个基点（2022 年 11 月以来最高），CoreWeave 债券收益率一度触及 15%，Citadel Securities 的 Griffin 直言「几乎可以确定我们正处在 AI 泡沫中」。加密一侧的曲线却相反：ETH 质押量创下 4,380 万枚（占总供应 35.9%）的纪录，而质押收益率掉到 2.63%——锁仓在增加，回报在下降。夹在中间的是无风险利率：路透调查中 94/100 的经济学家...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-20 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-20.html</link>
