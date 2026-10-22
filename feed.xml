@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-22 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-22.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-22.html</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天最值得注意的不是价格，而是两条最大的公链在同一周更换底层引擎。以太坊的 Amsterdam 分叉定档 10 月 26 日 Hoodi 测试网，geth、reth、erigon 三大执行客户端在 48 小时内齐发支持版本；Solana 的 Alpenglow 已在主网激活，把最终确认从 12.8 秒压到 150 毫秒，服役六年的 TowerBFT 正式退役。但市场的定价方式正在反向演化——从「押方向」转向「管风险」：比特币期权占衍生品未平仓比重升至近 60%（年初约 50%），灰度向 10 款 ETP 开放实物申购，ARK 数据显示代币化股票已占 DEX 现货成交的 9%。基础设施在加...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-21 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-21.html</link>
