@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-25 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-25.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-25.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今天的两条主线在互相拆台。宏观端，美伊冲突逼近临界点把布伦特推到 117 美元、美联储仍在讨论「加还是停」而非降息，比特币跌破 8 万美元触发 8.12 亿美元爆仓、22.6 万人被强制平仓；协议端，以太坊史上最大升级 Glamsterdam 在最后一个测试网被 EIP-8037 的 gas 记账风险拦下，五大客户端同日紧急发版，主网时间表实质后移。但同一周，汇丰在 PayMe 向 330 万用户开放港元稳定币、富兰克林邓普顿把 1.5 亿美元货币基金搬上 XRP Ledger——机构没有等协议变完美，资产上链的速度已经和协议升级的节奏脱钩。真正要观察的不是币价，而是这轮去杠杆属于「宏观...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-24 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-24.html</link>
