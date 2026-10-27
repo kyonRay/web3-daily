@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-27 星期二</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-27.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-27.html</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>加密行业的「制度化」今天同时在批文和诉状上推进——批准与抵制发生在同一天、同一个赛道。牌照层：美国 OCC 批准 Ripple National Trust Bank，让 RLUSD 第一次进入联邦监管的银行架构；评级层：标普全球正式完成对 OpenZeppelin 的收购，智能合约风险开始被纳入主权级信用评估；产品层：香港证监会批准全球首批面向公众发售的代币化基金在持牌平台做二级交易，Aviva 把 290 亿英镑货币基金搬上 XRPL。而在同一批新闻里，22 家传统机构联手、由保守派非营利组织在《华尔街日报》投放整版广告抵制股票代币化，纽约州博彩委员会起诉 Kalshi，加州监管机构...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-26 星期一</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-26.html</link>
