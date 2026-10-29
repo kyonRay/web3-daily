@@ -1,2 +1,8 @@
-# macOS
 .DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+*.log
+.python-version
