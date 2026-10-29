@@ -1,50 +1,52 @@
 #!/bin/bash
-# Web3 Daily — 部署脚本
-# 将当日 HTML 部署为 YYYY-MM-DD.html，然后重新生成 index.html 目录页
+# Copy today's Markdown into content/ and rebuild the Pages site.
+# The Obsidian vault path is local to the machine that runs the morning job.
+# Override it with WEB3_DAILY_VAULT. This script does not read or write HTML
+# exports; the site renders content/*.md.
 set -euo pipefail
 
-REPO_DIR="/Users/kyonguo/web3-daily"
-OBSIDIAN_DIR="/Users/kyonguo/Library/Mobile Documents/iCloud~md~obsidian/Documents/kyons_vault/tech/web3/diary"
-TODAY=$(date '+%Y-%m-%d')
+REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
+VAULT_DIR="${WEB3_DAILY_VAULT:-/Users/kyonguo/Library/Mobile Documents/iCloud~md~obsidian/Documents/kyons_vault/tech/web3/diary}"
+TODAY="$(date '+%Y-%m-%d')"
 
 cd "$REPO_DIR"
 
-# ── 1. 找到当日 HTML ──
-HTML_FILE="${OBSIDIAN_DIR}/${TODAY}-Web3-Daily.html"
-if [ ! -f "$HTML_FILE" ]; then
-  echo "ERROR: HTML not found: $HTML_FILE"
-  EXISTING=$(ls -t "$OBSIDIAN_DIR"/*-Web3-Daily.html 2>/dev/null | head -1)
-  if [ -n "$EXISTING" ]; then
-    echo "Falling back to latest: $(basename "$EXISTING")"
-    HTML_FILE="$EXISTING"
-    TODAY=$(basename "$EXISTING" | sed 's/-Web3-Daily.html//')
-  else
-    echo "ERROR: No HTML files found in Obsidian vault"
-    exit 1
+MD=""
+for candidate in \
+  "$VAULT_DIR/${TODAY}-Web3-Daily.md" \
+  "$VAULT_DIR/${TODAY}.md"
+do
+  if [[ -f "$candidate" ]]; then
+    MD="$candidate"
+    break
   fi
-fi
+done
 
-SIZE=$(stat -f%z "$HTML_FILE" 2>/dev/null)
-if [ "$SIZE" -eq 0 ]; then
-  echo "ERROR: HTML file is empty"
+if [[ -z "$MD" ]]; then
+  echo "ERROR: no markdown for ${TODAY} in:" >&2
+  echo "  ${VAULT_DIR}" >&2
+  echo "Looked for ${TODAY}-Web3-Daily.md and ${TODAY}.md" >&2
   exit 1
 fi
-echo "HTML: ${TODAY}.html ($(echo "scale=1; $SIZE/1024" | bc) KB)"
 
-# ── 2. 部署为独立页面 ──
-cp "$HTML_FILE" "${REPO_DIR}/${TODAY}.html"
-echo "→ ${TODAY}.html saved"
+cp "$MD" "$REPO_DIR/content/${TODAY}.md"
+echo "content/${TODAY}.md <= $(basename "$MD")"
 
-# ── 3. 生成目录页 ──
-/usr/bin/env python3 "${REPO_DIR}/generate_index.py"
+if ! python3 -c 'import markdown' >/dev/null 2>&1; then
+  echo "ERROR: Python package 'markdown' is not installed." >&2
+  echo "Run: python3 -m pip install -r requirements.txt" >&2
+  exit 1
+fi
 
-# ── 4. Commit & Push ──
-git add "${TODAY}.html" index.html
+python3 "$REPO_DIR/scripts/build.py"
+
+git add -- content index.html feed.xml sitemap.xml 404.html assets
+git add -- [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].html
 
 if git diff --cached --quiet; then
-  echo "No changes to commit (same content as last time)"
+  echo "No changes to commit"
 else
   git commit -m "📰 Web3 日报 ${TODAY}"
   git push origin main
-  echo "✅ Pushed to GitHub Pages"
+  echo "Pushed to GitHub Pages"
 fi

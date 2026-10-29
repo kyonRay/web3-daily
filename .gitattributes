@@ -1,0 +1,5 @@
+# Published HTML is build output. The source of truth is content/*.md.
+/*.html linguist-generated=true
+/feed.xml linguist-generated=true
+/sitemap.xml linguist-generated=true
+/assets/* linguist-generated=true
