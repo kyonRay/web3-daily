@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯，自动生成</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-29 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-29.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-29.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <description>美联储今天把「加息」重新摆上了桌面：10-2 的投票里有两票主张加息 25BP，沃什说 2% 的通胀目标「没有软版本」，加拿大央行三年多来首次加息——但市场几乎没理会，BTC 守在 81,000 美元上方，KOSPI 靠 SK 海力士一份营收 +328% 的财报单日涨了 6.63%。定价权正在从央行的贴现率转向 AI 的资本开支。 链上发生的是另一场重定价：真正被重新定价的不是币价，而是「谁有权发行证券」。DTCC 的代币化服务同日上线，34 只证券、30 万亿美元托管资产、跑在 Canton 与私有 Besu 上、约 20 家机构签约；而同一天 33 家上市公司明确拒绝 OKX-ICE...</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-28 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-28.html</link>
