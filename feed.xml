@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-10-30 星期五</title>
+      <link>https://kyonray.github.io/web3-daily/2026-10-30.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-10-30.html</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+      <description>市场风险偏好明显回落：BTC 回落到约 7.8 万美元一带，ETH 跌约 4%，全网市值约降 3.3%。同一交易日，客户端与工具链仍按自己的日历推进——Solana Agave/Jito v4.4.0 升至建议 20% 采用的稳定主网版，reth 2.9.0 完成向 evm2 的破坏性切换，Aptos 连发节点 hotfix，Optimism 挑战者与跨链过滤继续发 RC。价格在消化风险，基础设施没有停表。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-29 星期四</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-29.html</link>
