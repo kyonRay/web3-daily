@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-11-01 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-11-01.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-11-01.html</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
+      <description>Binance 被盗第三日，主线从「能不能赔」切到「提现何时开、行业还在不在流血」：官方称受影响资产补齐约 90%、新一轮储备证明快照已完成，SAFU 钱包转出约 7,500 BTC（约 $5.8 亿）用于补仓；同日 VergeX 疑似被盗、Chainalysis 遭外部入侵、Iron Fish 因双花漏洞关停网络、多项目官网 DNS/前端被 StepDrainer 连锅端——交易所热钱包之后，信任链沿着分析商、隐私链与前端一起裂开。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-10-31 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-10-31.html</link>
