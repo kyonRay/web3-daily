@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-11-04 星期三</title>
+      <link>https://kyonray.github.io/web3-daily/2026-11-04.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-11-04.html</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+      <description>Binance 初步调查报告落地：假面试图工与被篡改的开发工具把恶意软件送进钱包运维链路，约 4 个月潜伏、约 3 台员工电脑失守，并滥用内部 AI 工具，约 $63.4 亿受影响；第二阶段分批恢复提现的同时，Chainalysis 指黑客已开始把被盗 Solana 代币换成 BTC，何一称年内已拦截 57 起疑似朝鲜相关威胁——一边在补损，一边还在跟国家级攻击流水线赛跑。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-11-03 星期二</title>
       <link>https://kyonray.github.io/web3-daily/2026-11-03.html</link>
