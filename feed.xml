@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-11-08 星期日</title>
+      <link>https://kyonray.github.io/web3-daily/2026-11-08.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-11-08.html</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周末盘面几乎走平，资金账本却把 2026 年写成了净流出。美国现货比特币 ETF 本周净流出约 $12.8 亿（Farside 口径 $12.817 亿），为 6 月下旬以来最大周度流出，也是连续第二周净流出；12 只基金在本周初仍有约 $3.68 亿的年内净流入，周五收盘已变成年内净流出约 $9.141 亿。ETH ETF 连续第 6 周净流出，SOL 与 Hyperliquid ETF 各自录得上市以来最长的连续 5 周流出。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-11-07 星期六</title>
       <link>https://kyonray.github.io/web3-daily/2026-11-07.html</link>
