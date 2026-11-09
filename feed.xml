@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-11-09 星期一</title>
+      <link>https://kyonray.github.io/web3-daily/2026-11-09.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-11-09.html</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周末几乎走平的盘面，在周线收盘前被一根插针撕开。HTX 数据显示，比特币 15 分钟内下跌 2.77%，最低见 $73,510，随后回到约 $75,418；同一窗口里以太坊更弱，15 分钟内最低 $2,060（−7.3%），回升后仍报约 $2,151，较闪崩起点低 3.22%。ETH/BTC 同步下跌 4.22% 至 0.0285，创下 9 月高点以来新低。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-11-08 星期日</title>
       <link>https://kyonray.github.io/web3-daily/2026-11-08.html</link>
