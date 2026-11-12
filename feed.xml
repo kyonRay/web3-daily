@@ -6,7 +6,14 @@
     <description>每日精选全球 Web3 与宏观财经资讯</description>
     <language>zh-cn</language>
     <atom:link href="https://kyonray.github.io/web3-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Web3 日报｜2026-11-12 星期四</title>
+      <link>https://kyonray.github.io/web3-daily/2026-11-12.html</link>
+      <guid isPermaLink="true">https://kyonray.github.io/web3-daily/2026-11-12.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>MSCI 公布 11 月评审结果，Strategy（原 MicroStrategy）A 股被列入 MSCI USA 指数剔除名单，按 10 月 20 日价格截止日计算，11 月 30 日收盘后生效。这是 10 月 15 日新规落地：被定量筛成「非经营性公司」的发行人，将退出全球可投资市场指数。The Block 同时报道，Metaplanet 也在本轮调整中失去 MSCI 指数资格。</description>
+    </item>
     <item>
       <title>Web3 日报｜2026-11-11 星期三</title>
       <link>https://kyonray.github.io/web3-daily/2026-11-11.html</link>
